@@ -1,0 +1,5 @@
+# Koyeb.com - Free alternative to Render, never suspends for VPN
+# Go to app.koyeb.com -> Create Service -> GitHub -> itzZrifat/freevpn
+# Build: npm install
+# Run: node server.js
+# Port: 3000
